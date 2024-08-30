@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Monami
+
+  Created by abc on 01/03/19.
+  Copyright © 2019 mobulous. All rights reserved.
+*/
+
+
+//******** Setting Screen
+"Notificações" = "PAVR Notifications";
+"Notificação de Mensagens" = "Chat Notifications";
+"Notificação de relatórios" = "Report Notifications";
+"Mudar lingua" = "Change Language";
+"Mudar palavra passe" = "Change Password";
+"Sobre nós" = "About Us";
+"Contactar a equipa Monami" = "Contact Monami Team";
+"Sair" = "Logout";
+
+
+
+
+
+
+
+
+
+

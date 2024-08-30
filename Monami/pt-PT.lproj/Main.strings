@@ -1,0 +1,195 @@
+
+/* Class = "UILabel"; text = " H-146/147 Sec-63 Noida, H Block,, Sector 63, Noida, Uttar Pradesh 201307"; ObjectID = "01Q-TA-T2f"; */
+"01Q-TA-T2f.text" = " H-146/147 Sec-63 Noida, H Block,, Sector 63, Noida, Uttar Pradesh 201307";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "1nI-qM-of7"; */
+"1nI-qM-of7.text" = "Verificação";
+
+/* Class = "UITextField"; placeholder = "Enter Contact Number"; ObjectID = "3x3-GQ-pC3"; */
+"3x3-GQ-pC3.placeholder" = "Insira o número de telefone";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "60p-kU-ZUe"; */
+"60p-kU-ZUe.text" = "Configurações";
+
+/* Class = "UILabel"; text = "Child Profile"; ObjectID = "8SL-Gq-GAy"; */
+"8SL-Gq-GAy.text" = "Perfil da criança";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "9f0-sk-1fC"; */
+"9f0-sk-1fC.text" = "Perfil";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "B5a-Nu-jop"; */
+"B5a-Nu-jop.text" = "Mudar palavra passe";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "DhP-Iw-x75"; */
+"DhP-Iw-x75.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Play Audio"; ObjectID = "EhS-WR-yMI"; */
+"EhS-WR-yMI.text" = "Reproduzir Audio";
+
+/* Class = "UILabel"; text = "My Chat"; ObjectID = "Fvd-mm-EnP"; */
+"Fvd-mm-EnP.text" = "Mensagens";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Gjh-cV-biW"; */
+"Gjh-cV-biW.placeholder" = "Palavra passe";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "JSf-bA-WZS"; */
+"JSf-bA-WZS.text" = "Menu";
+
+/* Class = "UILabel"; text = "I Agree to the Terms & Conditions of Monami."; ObjectID = "KHq-HR-rmF"; */
+"KHq-HR-rmF.text" = "Aceito os termos e condições da Monami";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Kir-l8-vfr"; */
+"Kir-l8-vfr.placeholder" = "Confirmar palavra passe";
+
+/* Class = "UILabel"; text = "List of following children"; ObjectID = "Llm-VU-Zbw"; */
+"Llm-VU-Zbw.text" = "Lista de crianças";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Mpw-EJ-HlJ"; */
+"Mpw-EJ-HlJ.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "NWl-lg-tjo"; */
+"NWl-lg-tjo.normalTitle" = "Guardar";
+
+/* Class = "UILabel"; text = "Manage family"; ObjectID = "O1d-Gj-5e3"; */
+"O1d-Gj-5e3.text" = "Gerir Familiares";
+
+/* Class = "UILabel"; text = "+44 0000000000"; ObjectID = "OBE-0C-ZMe"; */
+"OBE-0C-ZMe.text" = "+44 0000000000";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "OFQ-16-2YO"; */
+"OFQ-16-2YO.normalTitle" = "Registar";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "OVO-OK-d2L"; */
+"OVO-OK-d2L.placeholder" = "Antiga palavra passe";
+
+/* Class = "UILabel"; text = "Resend Code"; ObjectID = "OZZ-1i-6iO"; */
+"OZZ-1i-6iO.text" = "Reenviar código";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "Olm-vf-q1K"; */
+"Olm-vf-q1K.normalTitle" = "Restabelecer palavra passe";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "QMe-Ob-p0j"; */
+"QMe-Ob-p0j.text" = "Esqueceu a Palavra passe";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "SYu-kv-LKg"; */
+"SYu-kv-LKg.placeholder" = "Contacto";
+
+/* Class = "UILabel"; text = "Already have an account? Log In"; ObjectID = "Tqr-dA-XiG"; */
+"Tqr-dA-XiG.text" = "Já tem uma conta? Conecte-se!";
+
+/* Class = "UILabel"; text = "OTP has been sent on your email id. Please enter it below."; ObjectID = "UFi-U2-sEf"; */
+"UFi-U2-sEf.text" = "Código enviado para o seu email. Por favor introduza o mesmo.";
+
+/* Class = "UITextField"; placeholder = "Enter CUID"; ObjectID = "UhS-Lw-q4W"; */
+"UhS-Lw-q4W.placeholder" = "introduza o código da criança";
+
+/* Class = "UITabBarItem"; title = "My Chat"; ObjectID = "VP9-gH-KfU"; */
+"VP9-gH-KfU.title" = "My Chat";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WZb-wx-bKo"; */
+"WZb-wx-bKo.text" = "Título";
+
+/* Class = "UILabel"; text = "Reports"; ObjectID = "X7R-J5-Ags"; */
+"X7R-J5-Ags.text" = "Relatórios";
+
+/* Class = "UILabel"; text = "View Reports"; ObjectID = "XLS-GG-RQP"; */
+"XLS-GG-RQP.text" = "Visualizar relatórios";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "XcC-uq-zhe"; */
+"XcC-uq-zhe.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = " Following"; ObjectID = "YqT-7g-ysD"; */
+"YqT-7g-ysD.normalTitle" = " Segue";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "ZtB-6N-VRH"; */
+"ZtB-6N-VRH.text" = "Número de telefone";
+
+/* Class = "UIButton"; normalTitle = "Contact Monami Team"; ObjectID = "adt-j1-eYk"; */
+"adt-j1-eYk.normalTitle" = "Contact Monami Team";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "ana-jp-MaO"; */
+"ana-jp-MaO.placeholder" = "Nova palavra passe";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "d7N-Wj-87c"; */
+"d7N-Wj-87c.placeholder" = "Confirmar palavra passe";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eAm-eQ-VWq"; */
+"eAm-eQ-VWq.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "euW-hn-JEu"; */
+"euW-hn-JEu.placeholder" = "Email Id";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "fAa-mG-z9c"; */
+"fAa-mG-z9c.text" = "English";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "fSr-oE-v3l"; */
+"fSr-oE-v3l.title" = "Home";
+
+/* Class = "UILabel"; text = "+91 0000000000"; ObjectID = "fYs-vV-y9x"; */
+"fYs-vV-y9x.text" = "+91 0000000000";
+
+/* Class = "UITabBarItem"; title = "My Chat"; ObjectID = "fzO-Kv-Gel"; */
+"fzO-Kv-Gel.title" = "My Chat";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "gfj-A5-G5Z"; */
+"gfj-A5-G5Z.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "hma-sV-xq5"; */
+"hma-sV-xq5.text" = "Comentários";
+
+/* Class = "UILabel"; text = "Nursery"; ObjectID = "jHa-Oy-c3J"; */
+"jHa-Oy-c3J.text" = "Creche";
+
+/* Class = "UIButton"; normalTitle = " tap to play"; ObjectID = "jR6-uc-Zbj"; */
+"jR6-uc-Zbj.normalTitle" = " Toque para reproduzir";
+
+/* Class = "UILabel"; text = "dummy@dummy.com"; ObjectID = "kJ9-kq-4Ew"; */
+"kJ9-kq-4Ew.text" = "dummy@dummy.com";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "mXa-TF-Mo7"; */
+"mXa-TF-Mo7.normalTitle" = "Enviar";
+
+/* Class = "UITabBarItem"; title = "My Chat"; ObjectID = "meJ-cl-mzJ"; */
+"meJ-cl-mzJ.title" = "My Chat";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "nH2-Sk-5sg"; */
+"nH2-Sk-5sg.title" = "Profile";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "ojN-xj-1ey"; */
+"ojN-xj-1ey.text" = "00:00";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "pAN-Nq-Ncn"; */
+"pAN-Nq-Ncn.text" = "Notificações";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "pfF-Sk-0Rd"; */
+"pfF-Sk-0Rd.text" = "Contacte-nos";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "quH-Yu-1XZ"; */
+"quH-Yu-1XZ.placeholder" = "Nome completo";
+
+/* Class = "UILabel"; text = "We can help you reset your password. Please enter your registered email Id"; ObjectID = "rWA-uY-Upo"; */
+"rWA-uY-Upo.text" = "Podemos ajuda-lo a restabelecer a sua palavra passe. Por favor introduza o seu email.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "sui-gj-FC9"; */
+"sui-gj-FC9.normalTitle" = "Conectar";
+
+/* Class = "UITextField"; placeholder = "Want to follow new child?"; ObjectID = "veb-3R-ckg"; */
+"veb-3R-ckg.placeholder" = "Quer seguir novo filho?";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "xXe-cd-xN5"; */
+"xXe-cd-xN5.placeholder" = "Email Id";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "xeI-dA-K9u"; */
+"xeI-dA-K9u.placeholder" = "Nome completo";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "y1R-8g-Wff"; */
+"y1R-8g-Wff.title" = "Notifications";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "yvj-UC-Qn6"; */
+"yvj-UC-Qn6.placeholder" = "Pesquisa";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "yzs-na-6mf"; */
+"yzs-na-6mf.normalTitle" = "Enviar";
+
+/* Class = "UILabel"; text = "Email Id"; ObjectID = "zjL-Tb-m9z"; */
+"zjL-Tb-m9z.text" = "Email Id";

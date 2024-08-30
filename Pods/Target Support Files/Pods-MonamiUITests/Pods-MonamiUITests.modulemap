@@ -1,0 +1,6 @@
+framework module Pods_MonamiUITests {
+  umbrella header "Pods-MonamiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,184 @@
+/* 
+  Localizable.strings
+  Monami
+
+  Created by abc on 01/03/19.
+  Copyright © 2019 mobulous. All rights reserved.
+*/
+
+//********* SignUp Screen
+"English" = "Inglês";
+"Portuguese" = "Português";
+"Email Id" = "Email Id";
+"Password" = "Palavra passe";
+"Login" = "Conectar";
+"Forgot Password?" = "Esqueceu a Palavra passe?";
+"SIGN UP" = "Registar";
+"Contact Monami Team" = "Contactar a Equipa Monami";
+
+
+//********* Home Screen
+"Cancel" = "Cancelar";
+"Are you sure?\nYou want to delete post of " = "Tem certeza?\n que pretende apagar este item";
+"OK" = "OK";
+"Saved" = "Guardado";
+"Your image has been saved" = "A sua imagem foi guardada";
+"Ok" = "Ok";
+"Select date" = "Selecionar data";
+"Done" = "Completo";
+"User already logged in some other device." = "Este utilizador já esta conectado em outro dispositivo";
+"Search" = "Pesquisa";
+"Home" = "Início";
+"Check this" = "Verifique isso";
+" image" = " imagem";
+" audio" = " áudio";
+" video" = " vídeo";
+
+
+//********** Profile Screen
+"Enter CUID" = "Por favor introduza o código da criança";
+"Submit" = "Enviar";
+"Please enter correct CUID." = "Por favor introduza um código válido";
+"CUID length should be 6 digit long." = "O código da criança teve ter 6 digitos";
+"Please enter CUID." = "Por favor introduza o código da criança";
+"Profile updated successfully." = "Perfil actualizado com sucesso!";
+"Choose Image" = "Escolher image";
+"Camera" = "Camera";
+"Gallery" = "Galeria";
+"You don't have camera" = "Não tem camera";
+"Profile" = "Perfil";
+"Full Name" = "Nome completo";
+"Phone Number" = "Número de telefone";
+"Enter Contact Number" = "Insira o número de telefone";
+" Following" = " Segue";
+"Save" = "Guardar";
+"Want to follow new child?" = "Quer seguir novo filho?";
+"Enter Email Id" = "Insira o Email Id";
+
+//******** List of Following Screen
+"Are you sure?\nYou want to unfollow " = "Tem certeza?\n que pretende abandonar ";
+
+//********* Menu
+"Breakfast - " = "Pequeno almoço - ";
+"Lunch - " = "Almoço - ";
+"Snack -" = "Lanche - ";
+
+
+//******** Setting Screen
+"PAVR Notifications" = "Notificações";
+"Chat Notifications" = "Notificação de Mensagens";
+"Report Notifications" = "Notificação de relatórios";
+"Change Language" = "Mudar lingua";
+"Change Password" = "Mudar palavra passe";
+"About Us" = "Sobre nós";
+"Contact Monami Team" = "Contactar a equipa Monami";
+"Logout" = "Sair";
+"Are you sure?\nYou want to Log out!" = "Tem certeza\n que quer sair?";
+
+//******** Notifications Screen
+"Notifications" = "Notificações";
+"Nanny added new report" = "Um novo relatório foi adicionado";
+"weeks" = "semanas";
+"week" = "semana";
+"months" = "meses";
+"month" = "mês";
+"years" = "anos";
+"year" = "ano";
+"seconds" = "segundos";
+"minutes" = "minutos";
+"hours" = "horas";
+"ago" = "atrás";
+"before" = "antes";
+"days" = "dias";
+
+//******** My Chat Screen
+"My Chat" = "Mensagens";
+"Write your message..." = "Escreva o seu mensagem...";
+//******** Comment Screen
+"Write your comment..." = "Escreva o seu comentário...";
+"Are you sure?\nYou want to delete this comment" = "Tem certeza?\nVocê deseja excluir este comentário";
+"Edit Comment" = "Editar comentário";
+"Please enter Comment." = "Por favor insira Comentário.";
+
+//********* Manage Family Screen
+"Are you sure?\nYou want to delete access of " = "Tem certeza\n que pretende remover o acesso?";
+"Access activated" = "Acesso activado";
+"Access deactivated" = "Acesso desactivado";
+
+
+//******** Change Password Screen
+"Reset Password" = "Restabelecer palavra passe";
+"Please enter old password." = "Por favor insira a antiga palavra passe";
+"Old Password length should be 6-10 characters." = "    A antiga palavra passe deve ter 6 a 10 digitos";
+"Please enter new password." = "Por favor introduza a nova palavra passe";
+"New password length should be 6-10 characters." = "A nova palavra passe deve ter 6 a 10 caracteres";
+"New Password and Confirm Pasword is not matching." = "A nova palavra passe deve ser igual a confirmação da palavra passe";
+
+
+
+//********* About Term & Conditions Screen
+
+"About" = "Sobre";
+
+
+
+//********* Play Audio Screen
+
+" tap to play" = " Toque para reproduzir";
+" tap to stop" = " Toque para parar";
+"Audio file is missing." = "Ficheiro audio não detectado";
+
+//********* View Report Screen
+"Naps" = "Soninho";
+"Time" = "Hora";
+"Toilet" = "Pumpum";
+"Activities" = "Actividades";
+"Activity" = "Actividade";
+"No Data Yet!" = "Sem informação até ao momento";
+"Jan" = "Janeiro";
+"Feb" = "Fevereiro";
+"Mar" = "Março";
+"Apr" = "Abril";
+"May" = "Maio";
+"June" = "Junho";
+"July" = "Julho";
+"Aug" = "Agosto";
+"Sept" = "Setembro";
+"Oct" = "Outubro";
+"Nov" = "Novembro";
+"Dec" = "Dezembro";
+"View" = "Ver";
+"Sunday" = "Domingo";
+"Monday" = "Segunda-Feira";
+"Tuesday" = "Terça-feira";
+"Wednesday" = "Quarta-feira";
+"Thursday" = "Quinta-feira";
+"Friday" = "Sexta-feira";
+"Saturday" = "Sábado";
+"Meals" = "Refeições";
+"None" = "Nada";
+"Small" = "Pouco";
+"Lots" = "Muito";
+//********* Sign Up Alert Messages
+"Please enter full name." = "Por favor introduza o nome completo";
+"Please enter your valid full name. (Full Name contains A-Z or a-z, no special character or digits are allowed.)" = "Por favor introduza o nome completo. Caracteres especiais ou digitos não são permitidos";
+"Full name length should atleast of 4 characters." = "O nome completo deve ter pelo menos 4 caracteres";
+"Please enter password." = "Por favor introduza a palavra chave";
+"Password length should be 6-10 characters." = "A palavra passe deve ter entre 6 e 10 caracteres";
+"Please enter confirm password." = "Por favor confirme a palavra passe";
+"Confirm password length should be 6-10 characters." = "A confirmação da palavra passe deve ter 6 a 10 caracteres";
+"Password and Confirm Pasword is not matching." = "A palavra passe deve ser igual a confirmaçºao da palavra passe";
+"Please accept terms & conditions." = "Por favor aceitos os termos e condições";
+
+//********** Forget Screen Alert Messages
+
+"Please enter phone number." = "Por favor introduza o numero de telefone.";
+"Please enter Email ID." = "Por favor introduza o email";
+"Please enter valid email address." = "Por favor introduza um email válido";
+"There is some error occured. Please try again later." = "Ocorreu um erro. Por favor tente mais tarde.";
+"There is no internet connection. Please try again later." = "Não há conexão a internet. Por favor tente mais tarde.";
+
+
+//********** Verification Alert Messages
+"Incorrect OTP." = "Código incorrecto.";
+"Please enter CUID to continue in the app." = "Por favor introduza o código de uma criança para continuar";
